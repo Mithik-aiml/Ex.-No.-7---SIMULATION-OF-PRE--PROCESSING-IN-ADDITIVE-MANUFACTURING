@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 14.12.2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,9 +44,18 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![step1](https://github.com/user-attachments/assets/5fe8f49d-fc10-4fe6-96c3-a61b0b1b1ee2)
+![step2](https://github.com/user-attachments/assets/dc1853fe-7d69-480f-9770-51c32a052145)
+![step3](https://github.com/user-attachments/assets/da916fcd-8c2b-450f-96e7-c23b7f56b967)
+![step4](https://github.com/user-attachments/assets/f459f209-ab15-4a3a-8d8a-a3cefb34b5d8)
+![step5](https://github.com/user-attachments/assets/51d432e9-969f-4d03-b92c-7ffff05340e7)
+![step6](https://github.com/user-attachments/assets/d9ec4c55-cca8-41dc-865f-0e923f9492ce)
 
-### Name:
-### Register Number:
+
+
+
+### Name:G.Mithik jain
+### Register Number:24001881
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
